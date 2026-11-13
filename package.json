@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Smotherer007/pi-azure-devops.git"
+    "url": "https://github.com/patimweb-agents/pi-azure-devops.git"
   },
   "bugs": {
-    "url": "https://github.com/Smotherer007/pi-azure-devops/issues"
+    "url": "https://github.com/patimweb-agents/pi-azure-devops/issues"
   },
   "scripts": {
     "build": "echo 'No build step defined'",
