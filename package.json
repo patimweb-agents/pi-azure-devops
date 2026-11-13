@@ -27,7 +27,7 @@
     "test:watch": "node --experimental-test-module-mocks --test --watch 'test/**/*.test.ts'"
   },
   "dependencies": {
-    "azure-devops-node-api": "^15.1.0"
+    "azure-devops-node-api": "^17.0.1"
   },
   "peerDependencies": {
     "@earendil-works/pi-coding-agent": "*",
